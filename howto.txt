@@ -51,6 +51,8 @@ BurkeCorp.com/FoodSafety
 BURKECORP.COM
 
 // parsed by copying the data rows into a template string then iterating
+// copy paste after this comment to the end to end to receive results
+
 const orig_data = `Pizza Sauce (oz.) .75 1.25 1.75 1.25 2 2.75 2 3 3.5 3 4 5 3.75 5.75 7.5 4.75 7 9 6 8.25 10.25 5.25 7.5 9.5 9.25 13 16.5
 Cheese (oz.) 1 1.25 1.75 1.5 2 2.75 2.5 3.25 4.5 4 6 7.5 5.75 7 9.25 7.25 10.5 14 7.5 12 15.5 6.25 9.5 12.75 13.5 20 27
 Pepperoni (slices) 4 5 8 5 8 12 8 16 20 16 20 28 20 28 40 24 40 48 32 48 64 32 44 60 64 88 116
@@ -110,7 +112,7 @@ console.log(JSON.stringify(dataset));
 
 // then make ze html
 row = datum => (`
-  <tr class="topping ${datum.kind}">
+  <tr class="topping ${datum.kind.split(' ').join('')}">
     <th class="kind">${datum.kind}</th><th class="unit">${datum.unit}</th>
     <td class="s6  wl">${datum['6' ].low}</td><td class="s6  wm">${datum['6' ].medium}</td><td class="s6  wh">${datum['8' ].high}</td>
     <td class="s8  wl">${datum['8' ].low}</td><td class="s8  wm">${datum['8' ].medium}</td><td class="s8  wh">${datum['8' ].high}</td>
