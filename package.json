@@ -1,0 +1,27 @@
+{
+  "name": "burke_corp_pizza",
+  "version": "1.0.0",
+  "description": "Burke Corporation pizza dataset",
+  "main": "data.es6.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StoneCypher/burke_corp_pizza.git"
+  },
+  "keywords": [
+    "burke",
+    "corporation",
+    "pizza",
+    "dataset",
+    "js",
+    "json"
+  ],
+  "author": "John Haugeland <stonecypher@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StoneCypher/burke_corp_pizza/issues"
+  },
+  "homepage": "https://github.com/StoneCypher/burke_corp_pizza#readme"
+}
