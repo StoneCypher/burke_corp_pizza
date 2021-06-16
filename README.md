@@ -52,9 +52,9 @@ Burke vends meats, has good ingredients, and is geared for small restaurants.  Y
 
 # PIZZA TOPPINGS PORTION GUIDE
 
-| Pizza Size (inches) 6 8 10 12 14 16 18 Half Pan Full Pan |
-| ---- |
-| Toppings L M H L M H L M H L M H L M H L M H L M H L M H L M H |
+| Pizza Size (inches) | 6 | 8 | 10 | 12 | 14 | 16 | 18 | Half Pan | Full Pan |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| Toppings | L M H | L M H | L M H | L M H | L M H | L M H | L M H | L M H | L M H |
 | Pizza Sauce (oz.) .75 1.25 1.75 1.25 2 2.75 2 3 3.5 3 4 5 3.75 5.75 7.5 4.75 7 9 6 8.25 10.25 5.25 7.5 9.5 9.25 13 16.5 |
 | Cheese (oz.) 1 1.25 1.75 1.5 2 2.75 2.5 3.25 4.5 4 6 7.5 5.75 7 9.25 7.25 10.5 14 7.5 12 15.5 6.25 9.5 12.75 13.5 20 27 |
 | Pepperoni (slices) 4 5 8 5 8 12 8 16 20 16 20 28 20 28 40 24 40 48 32 48 64 32 44 60 64 88 116 |
