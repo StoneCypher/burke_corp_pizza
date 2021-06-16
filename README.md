@@ -52,10 +52,10 @@ Burke vends meats, has good ingredients, and is geared for small restaurants.  Y
 
 # PIZZA TOPPINGS PORTION GUIDE
 
+<small><small>
 <table>
 
   <tr class="headings">
-    <th rowspan="2"></th>
     <th rowspan="2">Topping</th>
     <th rowspan="2">Unit</th>
     <th colspan="3">6 inch</th>
@@ -458,3 +458,4 @@ Burke vends meats, has good ingredients, and is geared for small restaurants.  Y
     <td class="sfp wl">3.5</td><td class="sfp wm">8.25</td><td class="sfp wh">13.25</td>
   </tr>
 </table>
+</small></small>
